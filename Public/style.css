@@ -64,7 +64,10 @@ html
 {
     background-color: crimson;
 }  
-
+#navbarSupportedContent a:active
+{
+    background-color: crimson;
+}  
 /* a {
     display: inline-block;
     text-decoration:none
